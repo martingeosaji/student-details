@@ -1,0 +1,8 @@
+name=input("enter the name")
+roll=input("enter the roll number")
+admission=input("enter the admission number")
+college=input("enter the college name")
+print(name)
+print(roll)
+print(admission)
+print(college)
